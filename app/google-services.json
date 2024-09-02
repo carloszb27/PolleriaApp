@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758296228842",
+    "project_id": "polleriaappandroid",
+    "storage_bucket": "polleriaappandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758296228842:android:b7738b30adb675c97c7893",
+        "android_client_info": {
+          "package_name": "com.example.polleriaappandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi48JIqenpjJv2z4WzAFx2bWPcaXhGRO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
